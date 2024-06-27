@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas Peter.
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Java and MySQL.
-- 💞️ I’m looking for a fresher role as Backend Developer / Junior Java Developer.
+- 👀 I’m a Backend Development.
+- 🌱 I know Java, Python and MySQL.
+- 💞️ I’m looking for an entry level Backend Developer / Junior Java Developer roles.
 - 📫 You can reach me @ thomaspeterthekkumpurath@gmail.com
 
 <!---
