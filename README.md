@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas Peter.
-- 👀 I’m a Backend Development.
-- 🌱 I know Java, Python and MySQL.
-- 💞️ I’m looking for an entry level Backend Developer / Junior Java Developer roles.
+- 👀 I’m a Salesforce Developer.
+- 🌱 I know Apex, LWC, Flows and SOQL.
+- 💞️ I’m looking for an entry level Salesforce Developer roles.
 - 📫 You can reach me @ thomaspeterthekkumpurath@gmail.com
 
 <!---
