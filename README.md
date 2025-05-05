@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas Peter.
 - 👀 I’m a Salesforce Developer.
 - 🌱 I know Apex, LWC, Flows and SOQL.
-- 💞️ I’m looking for an entry level Salesforce Developer roles.
+- 💞️ I’m looking for an entry level Salesforce Developer role.
 - 📫 You can reach me @ thomaspeterthekkumpurath@gmail.com
 
 <!---
